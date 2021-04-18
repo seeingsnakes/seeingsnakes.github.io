@@ -1,0 +1,77 @@
+I"R
+<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">mycorhizo <span class="small btn btn-outline-success btn-sm btn-round"><a href="https://twitter.com/mycorhizo">Follow</a></span></h2>
+                <p><a href="https://seeingsnakes.xyz">https://seeingsnakes.xyz</a></p>
+                <p class="excerpt">the author of the blog.</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="mycorhizo" src="//assets/images/avatar1.jpg" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by mycorhizo</span></h4>
+            
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/sourdough/">Sourdough</a>
+	</h2>
+	<p class="excerpt">
+	   what is the labor of love,but the foul wind turned palatable?fermented and bubbly, funky and oozingthe smell of decay becomes umami, how multi-culturalit streaks overthe surface of co...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#poetry">poetry</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Dec 01, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/sourdough/">
+	<img class="w-100" src="/assets/images/sourdough.jpg" alt="Sourdough" />
+	</a>
+	</div>
+
+</div>
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/spiritual-salience/">Why am I writing a blog?</a>
+	</h2>
+	<p class="excerpt">
+	   In the name of radical honesty, something I’ve only begun to bring into action (despite two years of pro-active work on it), I am writing this. I have lost quite a few years of my lif...
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#meta">meta</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Oct 30, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/spiritual-salience/">
+	<img class="w-100" src="/assets/images/introduction.jpg" alt="Why am I writing a blog?" />
+	</a>
+	</div>
+
+</div>
+            
+    </div>
+</div>
+</div>
+:ET

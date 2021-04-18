@@ -1,0 +1,62 @@
+# Site
+name: 'seeing snakes'
+description: 'A blog that assumes anyone wants to hear about the quasi-random outputs of my mind.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
+baseurl: ''
+disqus: 'seeingsnakes'
+email: 'me@btromm.com'
+mailchimp-list: 'https://xyz.us2.list-manage.com/subscribe/post?u=7d1c755805fcbf41e9b26589f&amp;id=ac7dbf0dfd'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-scholar
+
+authors:
+    mycorhizo:
+      name:           mycorhizo
+      site:           https://seeingsnakes.xyz
+      avatar:         assets/images/avatar1.jpg
+      bio:            "the author of the blog."
+      email:          me@btromm.com
+      twitter:        https://twitter.com/mycorhizo
+      reddit:         https://reddit.comu/u/anarchic_mycelium
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: mycorhizo
+      avatar: assets/images/avatar1.jpg
+
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# Line breaks...
+kramdown:
+  hard_wrap: true
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
